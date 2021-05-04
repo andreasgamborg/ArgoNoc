@@ -1,2 +1,1 @@
-# ArgoNoc
-A network-on-chip for patmos
+# ArgoNoc in Chisel

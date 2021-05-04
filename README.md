@@ -1,2 +1,2 @@
 # ArgoNoc in Chisel
-![Argo_diagram](argo.png)
+![Argo_diagram](argo.PNG)
